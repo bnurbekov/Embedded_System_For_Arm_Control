@@ -1,12 +1,12 @@
-DEMO
-========
-Video: 
-
-[![Demo](https://img.youtube.com/vi/z841U8vz52E/0.jpg)](https://www.youtube.com/watch?v=z841U8vz52E)
-
 Synopsis
 ========
 The project is an embedded software system for robotic arm control. It was completed by myself and my project partner, William Hunt.
+
+Demonstration
+========
+Please click on the image below to see the video demonstration. 
+
+[![Demo](https://img.youtube.com/vi/z841U8vz52E/0.jpg)](https://www.youtube.com/watch?v=z841U8vz52E)
 
 Motivation
 ========
